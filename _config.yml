@@ -1,13 +1,13 @@
 # Site settings
 
-title: Project Pages
-header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/project-pages"
-url: "http://matin-hub.github.io"
-github_username:  matin-hub
-project_repository: project-pages
+title: Structure-Property linkages of semi-crystalline materials
+header-img: img/headers/page_header.jpg
+email: mdekou3@gatech.edu
+description: "Data science approach to solve structure-property linkages of semi-crystalline materials "
+baseurl: "/MIC-polymers"
+url: "http://MIC-polymers.github.io"
+github_username:  marie dekou
+project_repository: MIC-polymers
 disqus_shortname: project-pages
 
 # Build settings
