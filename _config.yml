@@ -1,11 +1,11 @@
 # Site settings
 
-title: "Structure-Property linkages of semi-crystalline materials"
+title: Structure-Property linkages of semi-crystalline materials
 header-img: img/headers/page_header.jpg
 email: mdekou3@gatech.edu
 description: "Data science approach to solve structure-property linkages of semi-crystalline materials "
 baseurl: "/MIC-polymers"
-url: "http://MIC-polymers.github.io"
+url: "http://Materials-Informatics-Class-Fall2015.github.io"
 github_username:  mariedekou
 project_repository: MIC-polymers
 disqus_shortname: project-pages
