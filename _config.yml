@@ -1,7 +1,7 @@
 # Site settings
 
 title: Structure-Property linkages of semi-crystalline materials
-header-img: img/headers/page_header.jpg
+header-img: img/headers/page_header.PNG
 email: mdekou3@gatech.edu
 description: "Data science approach to solve structure-property linkages of semi-crystalline materials "
 baseurl: "/MIC-polymers"
