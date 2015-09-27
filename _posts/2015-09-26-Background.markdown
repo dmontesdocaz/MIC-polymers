@@ -11,7 +11,7 @@ author:     Marie Dekou
 #Polymers:
 Monomers are linked together to form long chains of polymers. It exits a wide diversity of polymers: crystalline, microcrystalline, amorphous.
 
-![illustration of an amorphous of semi-crystalline structure](img/posts/polymers.PNG)
+![illustration of an amorphous of semi-crystalline structure]("img/posts/polymers.PNG")
 
 The material we are going to study is the Polyethylene (PE) a semi-crystalline material. It has a lamellar phase (crystalline structure) with amorphous regions between. Polymers films are mainly used the packaging industry 
 
