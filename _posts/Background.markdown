@@ -49,4 +49,5 @@ They created a toolbox that predicts the evolution of the material structure dur
 [Data Science Solutions to XRD](http://materials-informatics-class-fall2014.github.io/MIC-XRD-Polymer/)
 
 [1]Structure Property Relationship in Polyethylene Blown Films, Abhiram Kannan
+
 [2]Everything SAXS: small angle scattering patterns collection and correction, Brian Richard Pauw
