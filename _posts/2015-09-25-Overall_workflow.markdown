@@ -22,5 +22,3 @@ overall workflow is shown in the diagram below.
 The biggest hurdlesin our problem will be the phase recovery problem for microstructure reconstruction. The PCA involved in formulating a structure property linkage may also
 pose an issue. Since this project is on going more data pertaining to the WAXS, and SAXS images may become available including bivariate distributions. This could allow far more parameters to 
 correlate the tear and dart data to polymer microstructure. A post will follow presenting the available data and the work we are building off of.
- 
-
