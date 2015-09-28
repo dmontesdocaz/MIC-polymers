@@ -16,7 +16,7 @@ overall workflow is shown in the diagram below.
 
 
 #Workflow
-![X-rays scattering principle](https://github.com/Materials-Informatics-Class-Fall2015/MIC-polymers/blob/gh-pages/img/posts/Workflow.JPG) 
+![X-rays scattering principle](http://crazyatheengineer.tumblr.com/image/130057041172) 
 
 #Discussion 
 The biggest hurdlesin our problem will be the phase recovery problem for microstructure reconstruction. The PCA involved in formulating a structure property linkage may also
