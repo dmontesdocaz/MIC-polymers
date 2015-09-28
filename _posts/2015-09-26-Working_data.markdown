@@ -22,7 +22,7 @@ There are several things to note about this equation, the most important being i
 to the SAXS and WAXS images. This involves taking the log, cropping and identifying/translating an origin of the images. A total of 24 images are available for use for reconstruction. 12 images are WAXS images, and 12 images are SAXS. The images
 correspond to the initial scattering patterns of 12 blown PE samples. The conditions of the 12 samples are shown below.
 
-![Sample Conditions](https://github.com/Materials-Informatics-Class-Fall2015/MIC-polymers/blob/gh-pages/img/posts/Sample_Conditions.PNG) 
+![Sample Conditions](https://36.media.tumblr.com/5c1182f554d8d06b3e6716b26fcd4ba2/tumblr_nvdzrzbFaj1rlqsr4o1_1280.png) 
 
 With the given data, Percentage crystallinity provides us the initial volume fraction and the initial thickness is given in microns. These provide the answers to the crucial variables 
 in the equation above. The MD Draw ratio pertains to a manufacturing conditions of the fully blown film radius to the pre-blown radius. Finally, unprocessed examples of the SAXS and WAXS images are shown below.
