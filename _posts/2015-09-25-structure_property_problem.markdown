@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Background Presentation
+title:      structure property problem
 date:       2015-09-25 12:00:00
 author:     Marie Dekou
 
