@@ -20,7 +20,7 @@ Where $f^{11}$ is the auto correlation of two states, $V_1$ is the volume fracti
 This equation was previously derived by David Brough shown  [here](http://nbviewer.ipython.org/github/phelpsforpresident/MIC-XRD-Polymer/blob/gh-pages/notebooks/Relationship_between_XRD_and_Autocorrelation.ipynb)
 
 There are several things to note about this equation, the most important being it is based on initial, known conditions of the material. A post going more in depth into the equation is coming. The first step in applying the derived equation
-to the SAXS and WAXS images. This involves taking the log, cropping and identifying/translating an origin of the images. A total of 24 images are available for use for reconstruction. 12 images are WAXS images, and 12 images are SAXS. The images
+is cleaning the SAXS and WAXS images. This involves taking the log, cropping and identifying/translating an origin of the images. A total of 24 images are available for use for reconstruction. 12 images are WAXS images, and 12 images are SAXS. The images
 correspond to the initial scattering patterns of 12 blown PE samples. The conditions of the 12 samples are shown below.
 
 ![Sample Conditions](https://36.media.tumblr.com/5c1182f554d8d06b3e6716b26fcd4ba2/tumblr_nvdzrzbFaj1rlqsr4o1_1280.png) 
