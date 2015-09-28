@@ -28,10 +28,10 @@ With the given data, Percentage crystallinity provides us the initial volume fra
 in the equation above. The MD Draw ratio pertains to a manufacturing conditions of the fully blown film radius to the pre-blown radius. Finally, unprocessed examples of the SAXS and WAXS images are shown below.
 
 ##SAXS Image
-![SAXS Example](https://github.com/Materials-Informatics-Class-Fall2015/MIC-polymers/blob/gh-pages/img/posts/SAXS_1_0000.TIF) 
+![SAXS Example](https://41.media.tumblr.com/71ab1336244161dbcd9fbc801b8f74a2/tumblr_nve0fcJxiN1rlqsr4o1_1280.png) 
 
 ##WAXS Image
-![WAXS Example](https://github.com/Materials-Informatics-Class-Fall2015/MIC-polymers/blob/gh-pages/img/posts/WAXS_1_0000.TIF) 
+![WAXS Example](https://41.media.tumblr.com/f118d500e0d41b7e848c722b107fc651/tumblr_nve0fqRuBp1rlqsr4o1_1280.png) 
 
 Initially, microstructure reconstruction will only incorporatate SAXS images based on previous work. The WAXS may be taken into account as the determination on the representation of microstructure due to WAXS images is explored by a project running parrallel to ours.
 
